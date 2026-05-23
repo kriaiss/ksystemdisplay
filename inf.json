@@ -1,0 +1,11 @@
+{
+  "name": "ksystemdisplay",
+  "author": "kriaiss",
+  "version": "1.0.0",
+  "description": "cool system display monitor",
+  "dependencies": [
+    "pyqt6",
+    "pyobjc-framework-cocoa",
+    "psutil"
+  ]
+}
